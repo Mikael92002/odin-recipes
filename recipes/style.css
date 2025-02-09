@@ -1,0 +1,45 @@
+/* tomato_sauce.html */
+.descTomato{
+    background-color:aqua;
+    color:red;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.descTomato.jeans{color:blue;
+background-color:bisque;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+#Tom #listTomato{font-size:50px;
+color:rgb(48, 102, 17);
+background-color:black;}
+
+
+/* index.html */
+.title{
+    margin:0 auto;
+    background-color:rgb(0, 0, 0);
+    color:rgb(0, 132, 255);
+    border:10px dotted red;
+    text-align:center;
+    padding:2px;
+}   
+
+.links{font-size:20px;
+list-style:none;
+
+}
+
+.homepage{background-color:bisque;}
+
+.inclusive{
+    
+    font-size:25px;
+    border: 5px double blue;
+    margin:50px auto;
+background-color:rgb(255, 230, 0);
+padding:2px;
+width: 400px;
+text-align:center;
+}
